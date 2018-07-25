@@ -26,11 +26,11 @@ paginate = 10
     url  = "/blog/"
     weight = 2
 
-[[menu.main]]
-    name = "FAQ"
-    identifier = "faq"
-    url  = "/faq/"
-    weight = 3
+# [[menu.main]]
+#     name = "FAQ"
+#     identifier = "faq"
+#     url  = "/faq/"
+#     weight = 3
 
 [[menu.main]]
     name = "Contact"
@@ -63,7 +63,7 @@ paginate = 10
 [[menu.topbar]]
     weight = 4
     name = "Email"
-    url = "mailto:your@email.com"
+    url = "mailto:orangecounty.rug@gmail.com"
     pre = "<i class='fa fa-2x fa-envelope'></i>"
 
 [params]
@@ -91,7 +91,7 @@ paginate = 10
     # - you're done. Happy mailing!
     #
     # Enable the contact form by entering your Formspree.io email
-    email = "your@email.com"
+    email = "orangecounty.rug@gmail.com"
 
     about_us = "<p></p>"
     # copyright = "Copyright (c) 2015 - 2016, YourCompany; all rights reserved."
