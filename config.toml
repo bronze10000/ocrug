@@ -93,7 +93,7 @@ paginate = 10
     # Enable the contact form by entering your Formspree.io email
     email = "orangecounty.rug@gmail.com"
 
-    about_us = "<p></p>"
+    # about_us = "<p></p>"
     # copyright = "Copyright (c) 2015 - 2016, YourCompany; all rights reserved."
 
     # Format dates with Go's time formatting
@@ -104,8 +104,7 @@ paginate = 10
     logo_small = "img/OCRUG_logo_small.png"
     address = """<p><strong>PeopleSpace</strong>
         <br>1691 Kettering Street
-        <br>Irvine
-        <br>CA
+        <br>Irvine, CA
         <br>
         <strong>USA</strong>
       </p>
@@ -120,9 +119,6 @@ paginate = 10
 [params.topbar]
     enable = true
     text = """
-      <p class="hidden-md hidden-lg"><a href="#" data-animate-hover="pulse"><i class="fa fa-phone"></i></a>
-      <a href="#" data-animate-hover="pulse"><i class="fa fa-envelope"></i></a>
-      </p>
       """
 
 # Enable and disable widgets for the right sidebar
@@ -168,6 +164,7 @@ paginate = 10
     subtitle = ""
 
 [params.recent_posts]
-    enable = false
+    enable = true
     title = "From our blog"
-    subtitle = "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo."
+    subtitle = "You can browse our list of posts that describe previous and future presentations."
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
