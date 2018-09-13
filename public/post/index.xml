@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Orange County R User Group</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on Orange County R User Group</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 Aug 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cancer Mutations Scores &amp; Reactivity in Shiny Apps</title>
+      <link>/post/cancer-mutations-scores-reactivity-in-shiny-apps/</link>
+      <pubDate>Tue, 28 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/cancer-mutations-scores-reactivity-in-shiny-apps/</guid>
+      <description>Talk 1: Classification and Statistical Analysis of Cancer Mutations Scores By: Yemi Odeyemi (Ph.D. Candidate in Data Science at Chapman University)
+The talk will describe part of Yemi&amp;rsquo;s doctoral work on building a statistical and predictive model to classify driver-passenger mutations. A Logit model is used with 10-fold cross-validation. The data was preprocessed to impute missing values using the rule-of-thumb approach, removal of redundant features and feature scaling. Feature selection was determined using a stepwise approach based on AIC.</description>
+    </item>
+    
+  </channel>
+</rss>
