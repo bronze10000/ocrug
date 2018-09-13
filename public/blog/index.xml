@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on Orange County R User Group</title>
-    <link>/blog/</link>
+    <link>https://ocrug.org/blog/</link>
     <description>Recent content in Blogs on Orange County R User Group</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 31 Jul 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ocrug.org/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>IBM Watson and Pacific Life</title>
-      <link>/blog/2018/07/31/2018-07-31-ibm-watson-and-pacific-life/</link>
+      <link>https://ocrug.org/blog/2018/07/31/2018-07-31-ibm-watson-and-pacific-life/</link>
       <pubDate>Tue, 31 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2018/07/31/2018-07-31-ibm-watson-and-pacific-life/</guid>
+      <guid>https://ocrug.org/blog/2018/07/31/2018-07-31-ibm-watson-and-pacific-life/</guid>
       <description>Details This month we great talks from UCI&amp;rsquo;s first set of graduates in the Master of Science, Business Analytics program. The talks are based on the analysis done by a team of graduate students during their five-month Capstone projects. As an interesting twice, one team did the analysis using python and the other used R. Both are great languages for analytical work.
 Talk 1: Pacific Life&amp;rsquo;s Deferred Annuity
 Our most essential task in this project is to review the mortality experience from Pacific Life.</description>
