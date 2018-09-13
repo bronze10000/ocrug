@@ -167,4 +167,4 @@ paginate = 10
     enable = true
     title = "From our blog"
     subtitle = "You can browse our list of posts that describe previous and future presentations."
-ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+# ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
