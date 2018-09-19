@@ -174,3 +174,14 @@
     text = """
       """
       ```
+
+
+##<span style="color:blue">Wed., 9/12/18
+- Install `OCRUG.ORG` domain on Netlify
+
+	- got help from tech support to accomplish this
+
+- Update files on Netlify
+
+	- *`public/2018` folder was not uploaded to **github**!*
+	- * There was '\*' in `.gitignore`*

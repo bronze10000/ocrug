@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/post/cancer-mutations-scores-rstudio-tune-up/</loc>
+    <lastmod>2018-08-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/cancer-mutations-scores-reactivity-in-shiny-apps/</loc>
     <lastmod>2018-08-28T00:00:00+00:00</lastmod>
   </url>
@@ -10,6 +15,10 @@
   <url>
     <loc>/blog/2018/07/31/2018-07-31-ibm-watson-and-pacific-life/</loc>
     <lastmod>2018-07-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2018-08-28-cancer-mutations-scores-rstudio-tune-up/</loc>
   </url>
   
   <url>
