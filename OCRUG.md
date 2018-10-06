@@ -185,3 +185,7 @@
 
 	- *`public/2018` folder was not uploaded to **github**!*
 	- * There was '\*' in `.gitignore`*
+
+
+
+##<span style="color:blue">Sat., 10/6/18

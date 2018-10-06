@@ -6,10 +6,38 @@
     <description>Recent content in Blogs on Orange County R User Group</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 31 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Alteryx &amp; Application of R</title>
+      <link>/blog/2018/10/30/2018-10-30-alteryx-application-of-r/</link>
+      <pubDate>Tue, 30 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2018/10/30/2018-10-30-alteryx-application-of-r/</guid>
+      <description>Details
+=== Talk 1 ===
+Alteryx &amp;ndash; TBD
+Title: Using R to build large-scale models with Alteryx
+Abstract:
+Alteryx will demonstrate how you can leverage your R skills in Alteryx to build large-scale models and deploy them. Alteryx makes deploying a predictive model easy with the click of a button. Alteryx exposes an R and Python interface via standard REST API requests, instead of recoding the models from within their native languages, integration of your most advanced analytic models into production systems is simple and painless.</description>
+    </item>
+    
+    <item>
+      <title> APIs and JSON with R, and Color Palette Similarity Measures</title>
+      <link>/blog/2018/09/25/2018-09-25-apis-and-json-with-r-and-color-palette-similarity-measures/</link>
+      <pubDate>Tue, 25 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2018/09/25/2018-09-25-apis-and-json-with-r-and-color-palette-similarity-measures/</guid>
+      <description>== Talk 1 ==
+APIs, JSON and R (Peter S.)
+Access RESTful APIs using httr, jsonlite and tidyverse packages. Focus will be writing R code.
+== Talk 2 ==
+Similarity measure in the space of color palettes (Emil H.)
+Related to my project of creating a catalog of all available color palettes in r https://github.com/EmilHvitfeldt/ r-color-palettes and its associated r package https://CRAN.R-project.org/package=paletteer I wanted to expand the project to support a higher degree of explorability.</description>
+    </item>
     
     <item>
       <title>IBM Watson and Pacific Life</title>
@@ -20,6 +48,15 @@
       <description>Details This month we great talks from UCI&amp;rsquo;s first set of graduates in the Master of Science, Business Analytics program. The talks are based on the analysis done by a team of graduate students during their five-month Capstone projects. As an interesting twice, one team did the analysis using python and the other used R. Both are great languages for analytical work.
 Talk 1: Pacific Life&amp;rsquo;s Deferred Annuity
 Our most essential task in this project is to review the mortality experience from Pacific Life.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/blog/1/01/01/2018-10-30-alteryx-application-of-r/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/1/01/01/2018-10-30-alteryx-application-of-r/</guid>
+      <description>Alteryx &amp;amp; Application of R       code{white-space: pre;} pre:not([class]) { background-color: white; }  if (window.hljs) { hljs.configure({languages: []}); hljs.initHighlightingOnLoad(); if (document.readyState &amp;&amp; document.readyState === &#34;complete&#34;) { window.setTimeout(function() { hljs.initHighlighting(); }, 0); } }  h1 { font-size: 34px; } h1.title { font-size: 38px; } h2 { font-size: 30px; } h3 { font-size: 24px; } h4 { font-size: 18px; } h5 { font-size: 16px; } h6 { font-size: 12px; } .</description>
     </item>
     
   </channel>

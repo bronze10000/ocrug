@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/blog/2018/10/30/2018-10-30-alteryx-application-of-r/</loc>
+    <lastmod>2018-10-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2018/09/25/2018-09-25-apis-and-json-with-r-and-color-palette-similarity-measures/</loc>
+    <lastmod>2018-09-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/cancer-mutations-scores-rstudio-tune-up/</loc>
     <lastmod>2018-08-28T00:00:00+00:00</lastmod>
   </url>
@@ -18,12 +28,16 @@
   </url>
   
   <url>
+    <loc>/blog/1/01/01/2018-10-30-alteryx-application-of-r/</loc>
+  </url>
+  
+  <url>
     <loc>/post/2018-08-28-cancer-mutations-scores-rstudio-tune-up/</loc>
   </url>
   
   <url>
     <loc>/blog/</loc>
-    <lastmod>2018-07-31T00:00:00+00:00</lastmod>
+    <lastmod>2018-10-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -42,7 +56,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2018-08-28T00:00:00+00:00</lastmod>
+    <lastmod>2018-10-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
