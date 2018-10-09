@@ -188,4 +188,46 @@
 
 
 
-##<span style="color:blue">Sat., 10/6/18
+##<span style="color:blue">Tues., 10/9/18
+- Remove `Contact form` and replace with email`link`
+	- in `themes/hugo-universal-theme/layouts/partials/contact.html`:
+
+	```html
+    <div class="heading">
+  		<!-- <h3>{{ i18n "contactForm" }}</h3> -->
+
+	    <h3>
+	      Are you curious about our meetup?
+	    </h3>
+	    <br><br>
+	        <p>
+	            Please feel free to contact <strong>
+	            	<a href="mailto:orangecounty.rug@gmail.com">
+	            	orangecounty.rug@gmail.com</a></strong>.
+	        </p>
+	</div>
+	```
+	
+- Replace `api`-powered map w/ `embedded` map
+
+	- in `themes/hugo-universal-theme/layouts/partials/map.html`:
+
+	```html
+	<div style="overflow:hidden;
+		padding-bottom:56.25%;
+		position:relative;
+		height:0;">
+	    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!
+	    1m3!1d3319.424030155786!2d-117.84902728555363!
+	    3d33.69797514376478!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!
+	    3m3!1m2!1s0x80dcdebc77252e75%3A0x5bf7fd4d7620e2c4!
+	    2sPeopleSpace!5e0!3m2!1sen!2sus!4v1539126187564" 
+	    width="1000" height="450"
+	    frameborder="0" style="border:0;
+	    left:0;
+	    top:0;
+	    height:100%;
+	    width:100%;
+	    position:absolute;" allowfullscreen></iframe>
+	</div>
+	```
