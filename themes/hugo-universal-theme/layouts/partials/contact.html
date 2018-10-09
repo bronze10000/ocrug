@@ -5,17 +5,26 @@
 
             <section>
 
-                {{ .Content }}
+                <!-- {{ .Content }} -->
 
-                {{ if isset .Site.Params "email" }}
+                <!-- {{ if isset .Site.Params "email" }} -->
 
                 <div class="heading">
-                  <h3>{{ i18n "contactForm" }}</h3>
+                  <!-- <h3>{{ i18n "contactForm" }}</h3> -->
+
+                    <h3>
+                      Are you curious about our meetup?
+                    </h3>
+                    <br><br>
+                        <p>
+                            Please feel free to contact <strong><a href="mailto:orangecounty.rug@gmail.com">us</a></strong>.
+                        </p>
+
                 </div>
 
                 <div id="contact-message"></div>
 
-                <form class="contact-form" method="post" action="https://formspree.io/{{ .Site.Params.email }}" netlify>
+                <!-- <form class="contact-form" method="post" action="https://formspree.io/{{ .Site.Params.email }}" data-netlify="true">
                     <div class="row">
                         <div class="col-sm-6">
                             <div class="form-group">
@@ -41,10 +50,9 @@
 
                         </div>
                     </div>
-                    <!-- /.row -->
-                </form>
+                </form> -->
 
-                {{ end }}
+                <!-- {{ end }} -->
 
             </section>
 
