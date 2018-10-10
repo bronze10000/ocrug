@@ -7,6 +7,8 @@ categories: []
 tags: []
 ---
 
+#This meetup will be held on October 30, 2018.
+
 === Talk 1 ===
 
 Alteryx – TBD
