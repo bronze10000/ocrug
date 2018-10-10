@@ -1,7 +1,7 @@
 ---
 title: Alteryx & Application of R
 author: John Peach and Ryan Benz
-date: '2018-10-30'
+date: '2018-10-08'
 slug: alteryx-application-of-r
 categories: []
 tags: []
