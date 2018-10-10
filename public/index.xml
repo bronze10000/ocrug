@@ -17,9 +17,21 @@
       <pubDate>Tue, 30 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>/blog/2018/10/30/2018-10-30-alteryx-application-of-r/</guid>
-      <description>Details
-=== Talk 1 ===
-Alteryx &amp;ndash; TBD
+      <description>=== Talk 1 ===
+Alteryx – TBD
+Title: Using R to build large-scale models with Alteryx
+Abstract:
+Alteryx will demonstrate how you can leverage your R skills in Alteryx to build large-scale models and deploy them. Alteryx makes deploying a predictive model easy with the click of a button. Alteryx exposes an R and Python interface via standard REST API requests, instead of recoding the models from within their native languages, integration of your most advanced analytic models into production systems is simple and painless.</description>
+    </item>
+    
+    <item>
+      <title>Alteryx &amp; Application of R</title>
+      <link>/blog/2018/10/30/2018-10-30-alteryx-application-of-r.utf8/</link>
+      <pubDate>Tue, 30 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2018/10/30/2018-10-30-alteryx-application-of-r.utf8/</guid>
+      <description>=== Talk 1 ===
+Alteryx – TBD
 Title: Using R to build large-scale models with Alteryx
 Abstract:
 Alteryx will demonstrate how you can leverage your R skills in Alteryx to build large-scale models and deploy them. Alteryx makes deploying a predictive model easy with the click of a button. Alteryx exposes an R and Python interface via standard REST API requests, instead of recoding the models from within their native languages, integration of your most advanced analytic models into production systems is simple and painless.</description>

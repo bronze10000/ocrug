@@ -7,11 +7,9 @@ categories: []
 tags: []
 ---
 
-Details
-
 === Talk 1 ===
 
-Alteryx -- TBD
+Alteryx – TBD
 
 Title: Using R to build large-scale models with Alteryx
 
@@ -39,16 +37,14 @@ Agenda:
 
 7:00-8:00
 
-* Introduction
+Introduction
 
-* Talk 1
+Talk 1
 
-* Talk 2
+Talk 2
 
 8:00-8:30 Clean-up and networking
 
-If you are interested in attending the DataScienceGo conference
-https://www.datasciencego.com/
+If you are interested in attending the DataScienceGo conference https://www.datasciencego.com/
 
-Use the following link and get 73% off the list price.
-https://www.datasciencego.com/ocrug-special-discount
+Use the following link and get 73% off the list price. https://www.datasciencego.com/ocrug-special-discount
