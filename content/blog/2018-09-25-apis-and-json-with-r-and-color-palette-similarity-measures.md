@@ -1,5 +1,5 @@
 ---
-title: ' APIs and JSON with R, and Color Palette Similarity Measures'
+title: APIs and JSON with R, and Color Palette Similarity Measures
 author: Ryan Benz
 date: '2018-09-25'
 slug: apis-and-json-with-r-and-color-palette-similarity-measures

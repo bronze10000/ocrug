@@ -7,7 +7,6 @@ categories: []
 tags: []
 ---
 
-Details
 This month we great talks from UCI's first set of graduates in the Master of Science, Business Analytics program. The talks are based on the analysis done by a team of graduate students during their five-month Capstone projects. As an interesting twice, one team did the analysis using python and the other used R. Both are great languages for analytical work.
 
 Talk 1: Pacific Life's Deferred Annuity
