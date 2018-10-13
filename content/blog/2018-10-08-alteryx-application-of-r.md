@@ -5,6 +5,7 @@ date: '2018-10-08'
 slug: alteryx-application-of-r
 categories: []
 tags: []
+banner: "img/banners/AlteryxWithDate.jpg"
 ---
 
 #This meetup will be held on October 30, 2018.
