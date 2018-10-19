@@ -231,3 +231,13 @@
 	    position:absolute;" allowfullscreen></iframe>
 	</div>
 	```
+	
+
+
+
+##<span style="color:blue">Thurs., 10/18/18
+###To place a `banner``img` for each blog post:
+- In `static/img/banner`:
+
+	- **Place `img` here w/ date of presentation**
+

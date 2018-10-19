@@ -31,12 +31,14 @@ Alteryx will demonstrate how you can leverage your R skills in Alteryx to build 
       <pubDate>Tue, 25 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>/blog/2018/09/25/2018-09-25-apis-and-json-with-r-and-color-palette-similarity-measures/</guid>
-      <description>== Talk 1 ==
+      <description>These talks were given on September 25, 2018.
+
+== Talk 1 ==
 APIs, JSON and R (Peter S.)
 Access RESTful APIs using httr, jsonlite and tidyverse packages. Focus will be writing R code.
 == Talk 2 ==
 Similarity measure in the space of color palettes (Emil H.)
-Related to my project of creating a catalog of all available color palettes in r https://github.com/EmilHvitfeldt/ r-color-palettes and its associated r package https://CRAN.R-project.org/package=paletteer I wanted to expand the project to support a higher degree of explorability.</description>
+Related to my project of creating a catalog of all available color palettes in r https://github.com/EmilHvitfeldt/ r-color-palettes and its associated r package https://CRAN.</description>
     </item>
     
     <item>
@@ -45,8 +47,10 @@ Related to my project of creating a catalog of all available color palettes in r
       <pubDate>Tue, 28 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>/blog/2018/08/28/2018-08-28-cancer-mutations-scores-rstudio-tune-up/</guid>
-      <description>Talk 1: Classification and Statistical Analysis of Cancer Mutations Scores By: Yemi Odeyemi (Ph.D. Candidate in Data Science at Chapman University)
-The talk will describe part of Yemi&amp;rsquo;s doctoral work on building a statistical and predictive model to classify driver-passenger mutations. A Logit model is used with 10-fold cross-validation. The data was preprocessed to impute missing values using the rule-of-thumb approach, removal of redundant features and feature scaling. Feature selection was determined using a stepwise approach based on AIC.</description>
+      <description>These talks were given on August 28, 2018.
+
+Talk 1: Classification and Statistical Analysis of Cancer Mutations Scores By: Yemi Odeyemi (Ph.D. Candidate in Data Science at Chapman University)
+The talk will describe part of Yemi&amp;rsquo;s doctoral work on building a statistical and predictive model to classify driver-passenger mutations. A Logit model is used with 10-fold cross-validation. The data was preprocessed to impute missing values using the rule-of-thumb approach, removal of redundant features and feature scaling.</description>
     </item>
     
     <item>
@@ -76,9 +80,9 @@ The talk will describe part of Yemi&amp;rsquo;s doctoral work on building a stat
       <pubDate>Tue, 31 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>/blog/2018/07/31/2018-07-31-ibm-watson-and-pacific-life/</guid>
-      <description>This month we great talks from UCI&amp;rsquo;s first set of graduates in the Master of Science, Business Analytics program. The talks are based on the analysis done by a team of graduate students during their five-month Capstone projects. As an interesting twice, one team did the analysis using python and the other used R. Both are great languages for analytical work.
-Talk 1: Pacific Life&amp;rsquo;s Deferred Annuity
-Our most essential task in this project is to review the mortality experience from Pacific Life.</description>
+      <description>These talks were given on July 31, 2018.
+
+This month we great talks from UCI&amp;rsquo;s first set of graduates in the Master of Science, Business Analytics program. The talks are based on the analysis done by a team of graduate students during their five-month Capstone projects. As an interesting twice, one team did the analysis using python and the other used R. Both are great languages for analytical work.</description>
     </item>
     
     <item>
