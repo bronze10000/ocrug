@@ -241,3 +241,21 @@
 
 	- **Place `img` here w/ date of presentation**
 
+	- in `content/blog/post.md`:
+
+		```md
+		---
+		title: IBM Watson and Pacific Life
+		author: John Peach
+		date: '2018-07-31'
+		slug: ibm-watson-and-pacific-life
+		categories: []
+		tags: []
+		banner: 'img/banners/PacificLifeIBMWatson.png'
+		---
+		```
+		
+		- ***Include `src` for `banner``img`***
+
+		
+

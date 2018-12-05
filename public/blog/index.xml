@@ -6,10 +6,43 @@
     <description>Recent content in Blogs on Orange County R User Group</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 08 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Dec 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>OCRUG Holiday Party</title>
+      <link>/blog/2018/12/06/2018-12-06-ocrug-holiday-party/</link>
+      <pubDate>Thu, 06 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2018/12/06/2018-12-06-ocrug-holiday-party/</guid>
+      <description>Holiday party will be on December 6, 2018.
+
+Details
+For more details and to RSVP please visit EventBrite:
+https://www.eventbrite.com/e/third-annual-oc-user-groups-holiday-ocug-party-2018-tickets-50987192064</description>
+    </item>
+    
+    <item>
+      <title>Telling Meaningful Stories with Data &amp; Connecting Javascript to Shiny</title>
+      <link>/blog/2018/11/27/2018-11-27-telling-meaningful-stories-with-data-connecting-javascript-to-shiny/</link>
+      <pubDate>Tue, 27 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2018/11/27/2018-11-27-telling-meaningful-stories-with-data-connecting-javascript-to-shiny/</guid>
+      <description>These talks were given on November 27, 2018.
+
+Details
+== Schedule ==
+6:30 &amp;ndash; 7:00: Networking
+7:00 &amp;ndash; 7:05: Welcome &amp;amp; general announcement
+7:05 &amp;ndash; 7:35: Telling Meaningful Stories with Data
+7:35 &amp;ndash; 8:05: Custom htmlwidgets: connecting Javascript to Shiny
+8:05 &amp;ndash; 8:30: Networking, clean-up
+== Talk 1 ==
+Telling Meaningful Stories with Data (Alyssa C.)
+According to Edward Tufte, an excellent data visualization expresses ‚ complex ideas communicated with clarity, precision and efficiency.</description>
+    </item>
     
     <item>
       <title>Alteryx &amp; Application of R</title>
