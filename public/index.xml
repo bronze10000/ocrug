@@ -6,10 +6,23 @@
     <description>Recent content on Orange County R User Group</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 06 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Jan 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Tibbles and Tidy Models</title>
+      <link>/blog/2019/01/29/2019-01-29-tibbles-and-tidy-models/</link>
+      <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2019/01/29/2019-01-29-tibbles-and-tidy-models/</guid>
+      <description>These talks will be given on January 29, 2019.
+
+==== Talks Speaker: Ryan Benz
+Title: Tibbles, and list columns, and nested data frames, oh my!
+Tibbles are a &amp;ldquo;modern reimagining of the data.frame&amp;rdquo; and are a big part of the tidyverse, but what are they really, how are they different from standard data frames, any why should you care about using them? In this talk, I&amp;rsquo;ll dive into tibbles and show how they can be used in several interesting ways taking advantage of list columns and nested data frames.</description>
+    </item>
     
     <item>
       <title>OCRUG Holiday Party</title>
