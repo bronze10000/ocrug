@@ -2,21 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on Orange County R User Group</title>
-    <link>https://ocrug.org/blog/</link>
+    <link>/blog/</link>
     <description>Recent content in Blogs on Orange County R User Group</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 29 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 Feb 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://ocrug.org/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Opinion Mining of Climate Change Research and Xaringan Slides</title>
+      <link>/blog/2019/02/26/2019-02-26-opinion-mining-of-climate-change-research-and-xaringan-slides/</link>
+      <pubDate>Tue, 26 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2019/02/26/2019-02-26-opinion-mining-of-climate-change-research-and-xaringan-slides/</guid>
+      <description>#=== Talks
+Speaker: Yemi Odeyemi
+Title: Opinion Mining of Climate Change Research
+Climate is defined as the long-term impact of weather on a specific locality. Statistically, climate is defined as the average weather for a specific area over a defined period, usually over three to four decades. Over the years we have seen the socioeconomic impacts of climate change on public health, agriculture/nutrition, nutrient cycle, migration, local economy. In recent times, there has been a huge debate on the polarity of climate change impact, with energy companies arguing against the impact of climate change while the government regulators arguing for.</description>
+    </item>
+    
+    <item>
       <title>Tibbles and Tidy Models</title>
-      <link>https://ocrug.org/blog/2019/01/29/2019-01-29-tibbles-and-tidy-models/</link>
+      <link>/blog/2019/01/29/2019-01-29-tibbles-and-tidy-models/</link>
       <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://ocrug.org/blog/2019/01/29/2019-01-29-tibbles-and-tidy-models/</guid>
+      <guid>/blog/2019/01/29/2019-01-29-tibbles-and-tidy-models/</guid>
       <description>These talks will be given on January 29, 2019.
 
 ==== Talks Speaker: Ryan Benz
@@ -26,10 +38,10 @@ Tibbles are a &amp;ldquo;modern reimagining of the data.frame&amp;rdquo; and are
     
     <item>
       <title>OCRUG Holiday Party</title>
-      <link>https://ocrug.org/blog/2018/12/06/2018-12-06-ocrug-holiday-party/</link>
+      <link>/blog/2018/12/06/2018-12-06-ocrug-holiday-party/</link>
       <pubDate>Thu, 06 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://ocrug.org/blog/2018/12/06/2018-12-06-ocrug-holiday-party/</guid>
+      <guid>/blog/2018/12/06/2018-12-06-ocrug-holiday-party/</guid>
       <description>Holiday party will be on December 6, 2018.
 
 Details
@@ -39,10 +51,10 @@ https://www.eventbrite.com/e/third-annual-oc-user-groups-holiday-ocug-party-2018
     
     <item>
       <title>Telling Meaningful Stories with Data &amp; Connecting Javascript to Shiny</title>
-      <link>https://ocrug.org/blog/2018/11/27/2018-11-27-telling-meaningful-stories-with-data-connecting-javascript-to-shiny/</link>
+      <link>/blog/2018/11/27/2018-11-27-telling-meaningful-stories-with-data-connecting-javascript-to-shiny/</link>
       <pubDate>Tue, 27 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://ocrug.org/blog/2018/11/27/2018-11-27-telling-meaningful-stories-with-data-connecting-javascript-to-shiny/</guid>
+      <guid>/blog/2018/11/27/2018-11-27-telling-meaningful-stories-with-data-connecting-javascript-to-shiny/</guid>
       <description>These talks were given on November 27, 2018.
 
 Details
@@ -59,10 +71,10 @@ According to Edward Tufte, an excellent data visualization expresses ‚ complex
     
     <item>
       <title>Alteryx &amp; Application of R</title>
-      <link>https://ocrug.org/blog/2018/10/08/2018-10-08-alteryx-application-of-r/</link>
+      <link>/blog/2018/10/08/2018-10-08-alteryx-application-of-r/</link>
       <pubDate>Mon, 08 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://ocrug.org/blog/2018/10/08/2018-10-08-alteryx-application-of-r/</guid>
+      <guid>/blog/2018/10/08/2018-10-08-alteryx-application-of-r/</guid>
       <description>#This meetup will be held on October 30, 2018.
 === Talk 1 ===
 Alteryx – TBD
@@ -73,10 +85,10 @@ Alteryx will demonstrate how you can leverage your R skills in Alteryx to build 
     
     <item>
       <title>APIs and JSON with R, and Color Palette Similarity Measures</title>
-      <link>https://ocrug.org/blog/2018/09/25/2018-09-25-apis-and-json-with-r-and-color-palette-similarity-measures/</link>
+      <link>/blog/2018/09/25/2018-09-25-apis-and-json-with-r-and-color-palette-similarity-measures/</link>
       <pubDate>Tue, 25 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://ocrug.org/blog/2018/09/25/2018-09-25-apis-and-json-with-r-and-color-palette-similarity-measures/</guid>
+      <guid>/blog/2018/09/25/2018-09-25-apis-and-json-with-r-and-color-palette-similarity-measures/</guid>
       <description>These talks were given on September 25, 2018.
 
 == Talk 1 ==
@@ -89,10 +101,10 @@ Related to my project of creating a catalog of all available color palettes in r
     
     <item>
       <title>Cancer Mutations Scores &amp; RStudio Tune-up</title>
-      <link>https://ocrug.org/blog/2018/08/28/2018-08-28-cancer-mutations-scores-rstudio-tune-up/</link>
+      <link>/blog/2018/08/28/2018-08-28-cancer-mutations-scores-rstudio-tune-up/</link>
       <pubDate>Tue, 28 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://ocrug.org/blog/2018/08/28/2018-08-28-cancer-mutations-scores-rstudio-tune-up/</guid>
+      <guid>/blog/2018/08/28/2018-08-28-cancer-mutations-scores-rstudio-tune-up/</guid>
       <description>These talks were given on August 28, 2018.
 
 Talk 1: Classification and Statistical Analysis of Cancer Mutations Scores By: Yemi Odeyemi (Ph.D. Candidate in Data Science at Chapman University)
@@ -101,10 +113,10 @@ The talk will describe part of Yemi&amp;rsquo;s doctoral work on building a stat
     
     <item>
       <title>IBM Watson and Pacific Life</title>
-      <link>https://ocrug.org/blog/2018/07/31/2018-07-31-ibm-watson-and-pacific-life/</link>
+      <link>/blog/2018/07/31/2018-07-31-ibm-watson-and-pacific-life/</link>
       <pubDate>Tue, 31 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://ocrug.org/blog/2018/07/31/2018-07-31-ibm-watson-and-pacific-life/</guid>
+      <guid>/blog/2018/07/31/2018-07-31-ibm-watson-and-pacific-life/</guid>
       <description>These talks were given on July 31, 2018.
 
 This month we great talks from UCI&amp;rsquo;s first set of graduates in the Master of Science, Business Analytics program. The talks are based on the analysis done by a team of graduate students during their five-month Capstone projects. As an interesting twice, one team did the analysis using python and the other used R. Both are great languages for analytical work.</description>
@@ -112,10 +124,10 @@ This month we great talks from UCI&amp;rsquo;s first set of graduates in the Mas
     
     <item>
       <title>OCUG Summer Bash</title>
-      <link>https://ocrug.org/blog/2018/06/21/2018-06-21-ocug-summer-bash/</link>
+      <link>/blog/2018/06/21/2018-06-21-ocug-summer-bash/</link>
       <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://ocrug.org/blog/2018/06/21/2018-06-21-ocug-summer-bash/</guid>
+      <guid>/blog/2018/06/21/2018-06-21-ocug-summer-bash/</guid>
       <description>OC User Group Summer Bash 2018.
 EVENTBRITE REGISTRATION: https://ocugsummerbash2018.eventbrite.com/
 Our OC User Groups at PeopleSpace is OC&amp;rsquo;s biggest technology meetup collaboration event. OCRUG is a member of this group.
