@@ -1,7 +1,7 @@
 ---
 title: Opinion Mining of Climate Change Research and Xaringan Slides
 author: Yemi Odeyemi & Zhi Yang
-date: '2019-02-26'
+date: '2019-02-23'
 slug: opinion-mining-of-climate-change-research-and-xaringan-slides
 categories: []
 tags: []
