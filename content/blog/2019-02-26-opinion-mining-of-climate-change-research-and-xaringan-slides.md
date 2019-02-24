@@ -1,13 +1,14 @@
 ---
 title: Opinion Mining of Climate Change Research and Xaringan Slides
 author: Yemi Odeyemi & Zhi Yang
-date: '2019-02-23'
+date: '2019-02-26'
 slug: opinion-mining-of-climate-change-research-and-xaringan-slides
 categories: []
 tags: []
 banner: "img/banners/Feb26_2019.png"
 ---
 
+<h2 style="color: blue">These talks will be held on Tuesday, February 26th, 2019.</h2>
 #=== Talks
 
 <strong>Speaker: Yemi Odeyemi</strong><br>
