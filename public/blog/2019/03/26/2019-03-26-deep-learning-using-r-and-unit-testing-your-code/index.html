@@ -6,7 +6,7 @@
   <meta name="robots" content="all,follow">
   <meta name="googlebot" content="index,follow,snippet,archive">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Cancer Mutations Scores &amp; RStudio Tune-up</title>
+  <title>Deep Learning using R and Unit Testing Your Code</title>
   <meta name="author" content="" />
 
   
@@ -56,9 +56,9 @@
   <link rel="alternate" href="/index.xml" type="application/rss+xml" title="Orange County R User Group">
 
   
-  <meta property="og:title" content="Cancer Mutations Scores &amp; RStudio Tune-up" />
+  <meta property="og:title" content="Deep Learning using R and Unit Testing Your Code" />
   <meta property="og:type" content="website" />
-  <meta property="og:url" content="/post/cancer-mutations-scores-rstudio-tune-up//" />
+  <meta property="og:url" content="/blog/2019/03/26/2019-03-26-deep-learning-using-r-and-unit-testing-your-code//" />
   <meta property="og:image" content="img/OCRUG_logo_small.png" />
 
 </head>
@@ -77,9 +77,9 @@
         <div class="container">
             <div class="navbar-header">
                 <a class="navbar-brand home" href="/">
-                    <img src="/img/OCRUG_logo_small.png" alt="Cancer Mutations Scores &amp; RStudio Tune-up logo" class="hidden-xs hidden-sm">
-                    <img src="/img/OCRUG_logo_small.png" alt="Cancer Mutations Scores &amp; RStudio Tune-up logo" class="visible-xs visible-sm">
-                    <span class="sr-only">Cancer Mutations Scores &amp; RStudio Tune-up - go to homepage</span>
+                    <img src="/img/OCRUG_logo_small.png" alt="Deep Learning using R and Unit Testing Your Code logo" class="hidden-xs hidden-sm">
+                    <img src="/img/OCRUG_logo_small.png" alt="Deep Learning using R and Unit Testing Your Code logo" class="visible-xs visible-sm">
+                    <span class="sr-only">Deep Learning using R and Unit Testing Your Code - go to homepage</span>
                 </a>
                 <div class="navbar-buttons">
                     <button type="button" class="navbar-toggle btn-template-main" data-toggle="collapse" data-target="#navigation">
@@ -146,7 +146,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-                <h1>Cancer Mutations Scores &amp; RStudio Tune-up</h1>
+                <h1>Deep Learning using R and Unit Testing Your Code</h1>
             </div>
         </div>
     </div>
@@ -162,27 +162,38 @@
 
                     <div class="col-md-9" id="blog-post">
 
-                        <p class="text-muted text-uppercase mb-small text-right">By <a href="#">John Peach</a> | August 28, 2018</p>
+                        <p class="text-muted text-uppercase mb-small text-right">By <a href="#">Ash Pahwa and John Peach</a> | March 26, 2019</p>
 
                         <div id="post-content">
-                          <p>Details<br>
-Talk 1: Classification and Statistical Analysis of Cancer Mutations Scores
-By: Yemi Odeyemi (Ph.D. Candidate in Data Science at Chapman University)</p>
+                          <h2 style="color: blue">These talks will be held on Tuesday, March 26th, 2019.</h2>
 
-<p>The talk will describe part of Yemi&rsquo;s doctoral work on building a statistical and predictive model to classify driver-passenger mutations. A Logit model is used with 10-fold cross-validation. The data was preprocessed to impute missing values using the rule-of-thumb approach, removal of redundant features and feature scaling. Feature selection was determined using a stepwise approach based on AIC. The objective was to determine the optimal class boundary for the probability for discretization. The models were evaluated with Receiver Operator Characteristics - Area under the curve (ROC-AUC) which is based on sensitivity and specificity.</p>
+<p>TensorFlow has become the defacto standard for distributed computing of deep neural networks. For over a year, R has had excellent support for this capability via a series of interrelated packages (keras, tfestimators, tensorflow, tfdatasets). Check out <a href="https://tensorflow.rstudio.com/">https://tensorflow.rstudio.com/</a> Then come join us for the first part of a two-part talk on using R and TensorFlow.</p>
 
-<p>Talk 2: Tune up your RStudio Experience
-By: Ryan Benz (SoCal Bioinformatics, Inc.)</p>
+<p>Hadley Wickham famously said, &ldquo;it’s not that we don’t test our code, it’s that we don’t store our tests so they can be re-run automatically.&rdquo; So, let us learn how to do unit testing with the testthat package. Instead of manually testing your code, automate the process and increase the reliability, maintainability and actually write better code faster.</p>
 
-<p>In this talk, Ryan will discuss some of the ways you can tune-up your RStudio experience to make it easier to work with and to stream line commonly performed tasks to support your coding and analysis work.</p>
+<p>#=== Talks</p>
 
-<p>Agenda:<br>
-6:30-7:00 Welcome and Networking<br>
-7:00-8:00<br>
-* Introduction<br>
-* Talk 1: Classification and Statistical Analysis of Cancer Mutations Scores<br>
-* Talk 2: Tune up your RStudio Experience<br>
-8:00-8:30 Clean-up and networking<br></p>
+<p><strong>Speaker: Ash Pahwa<strong></p>
+
+<h3>Title: Deep Learning using R and TensorFlow (Part 1)</h3>
+
+<p>Abstract:
+Google released TensorFlow software in 2015 targeted for the Deep Learning applications. Two primary misconceptions about TensorFlow are as follows. First, it can only be used with Python and second, it can only be used for building deep learning applications</p>
+
+<p>This talk will demystify these concepts. First, TensorFlow can also be used with R and any programming language. Second, TensorFlow’s main objective is to solve the mathematical problem (including differential equations) which contains multi-dimensional arrays (or tensors). Deep Learning Neural Networks is just another application of TensorFlow.</p>
+
+<p>In this first part, the fundamental architecture of TensorFlow will be covered. TensorFlow works on the concept of DAG (Directed Acyclic Graph). First, a DAG of the mathematical problem is built, and then the DAG is executed in the most efficient way using CPU, GPU or TPUs. The interface between R and TensorFlow will be discussed by building Neural Networks using R and TensorFlow.</p>
+
+<p><strong>Speaker: John Peach</strong></p>
+
+<h3>Title: It’s not that we don’t test our code, it’s that we don’t store our tests</h3>
+
+<p>Abstract:
+Software testing is important and we all do it. However, it is often not done in a principled way. It is standard practice in the software development community but is less common in analytics. testthat is a testing framework for R that is similar to other unit testing systems that you may know. It seamlessly integrates into the package development workflow so that you can test early and often.</p>
+
+<p>testthat decreases code development and maintenance frustration. Unit testing will help you develop better code structure by making your code easier to test. Thus, lazy development becomes better development. It allows you to quickly debug issues by isolating the source of a bug faster so that you can get back to the ‘real’ coding. It also allows you to have confidence that your changes did not break existing code.</p>
+
+<p>We will go over some basic unit testing concepts, how to set up testthat and write tests.</p>
 
                         </div>
                         

@@ -6,10 +6,20 @@
     <description>Recent content in Blogs on Orange County R User Group</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 Mar 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Deep Learning using R and Unit Testing Your Code</title>
+      <link>/blog/2019/03/26/2019-03-26-deep-learning-using-r-and-unit-testing-your-code/</link>
+      <pubDate>Tue, 26 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2019/03/26/2019-03-26-deep-learning-using-r-and-unit-testing-your-code/</guid>
+      <description>These talks will be held on Tuesday, March 26th, 2019. TensorFlow has become the defacto standard for distributed computing of deep neural networks. For over a year, R has had excellent support for this capability via a series of interrelated packages (keras, tfestimators, tensorflow, tfdatasets). Check out https://tensorflow.rstudio.com/ Then come join us for the first part of a two-part talk on using R and TensorFlow.
+Hadley Wickham famously said, &amp;ldquo;it’s not that we don’t test our code, it’s that we don’t store our tests so they can be re-run automatically.</description>
+    </item>
     
     <item>
       <title>Opinion Mining of Climate Change Research and Xaringan Slides</title>

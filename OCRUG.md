@@ -264,4 +264,15 @@
 ##<span style="color:blue">Sat., 2/23/19
 ###Hugo(Markdown) will not let you post something in the future!!!
 
+- In `config.toml`:
 
+	add
+
+	```
+	buildfuture = true
+
+	```
+	
+	#####<span style="color:red">`Posts` with future dates were not showing on the final production build. 
+	
+	
