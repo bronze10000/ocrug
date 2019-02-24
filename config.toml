@@ -13,7 +13,6 @@ googleAnalytics = ""
 paginate = 10
 
 
-buildFuture = "false"
 
 [menu]
 
