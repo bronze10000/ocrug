@@ -275,4 +275,33 @@
 	
 	#####<span style="color:red">`Posts` with future dates were not showing on the final production build. 
 	
+
+
+
+
+
+##<span style="color:blue">Thurs., 4/4/19
+###Change OCRUG `logo`
+
+- John Peach made new `logo` and placed on Github
+
+![new OCRUG logo](OCRUG_logo_small2.png)
+
+
+- In `/static/img`:
+	- named as `OCRUG_logo_3.png`
+
 	
+###Add 'Code of Conduct' on `menu`
+- IN `config.toml`:
+
+	```
+	[[menu.main]]
+    name = "Code of Conduct"
+    identifier = "COC"
+    url  = "https://github.com/ocrug/hackathon-2019/blob/master/
+    	code-of-conduct.md"
+    weight = 4
+    ```
+    
+###Add  	

@@ -29,16 +29,16 @@ buildfuture = true
     url  = "/blog/"
     weight = 2
 
-# [[menu.main]]
-#     name = "FAQ"
-#     identifier = "faq"
-#     url  = "/faq/"
-#     weight = 3
+[[menu.main]]
+    name = "Code of Conduct"
+    identifier = "COC"
+    url  = "https://github.com/ocrug/hackathon-2019/blob/master/code-of-conduct.md"
+    weight = 4
 
 [[menu.main]]
     name = "Contact"
     url  = "/contact/"
-    weight = 4
+    weight = 3
 
 # Top bar social links menu
 
@@ -103,8 +103,8 @@ buildfuture = true
     date_format = "January 2, 2006"
 
     # logo = "img/logo.png"
-    logo = "img/OCRUG_logo_small.png"
-    logo_small = "img/OCRUG_logo_small.png"
+    logo = "img/OCRUG_logo_small3.png"
+    logo_small = "img/OCRUG_logo_small3.png"
     address = """<p><strong>PeopleSpace</strong>
         <br>1691 Kettering Street
         <br>Irvine, CA

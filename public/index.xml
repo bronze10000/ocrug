@@ -6,10 +6,40 @@
     <description>Recent content on Orange County R User Group</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Deep Learning using R, REST APIs and Shiny</title>
+      <link>/blog/2019/04/29/2019-04-29-deep-learning-using-r-rest-apis-and-shiny/</link>
+      <pubDate>Mon, 29 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2019/04/29/2019-04-29-deep-learning-using-r-rest-apis-and-shiny/</guid>
+      <description>These talks will be held on Monday, April 29th, 2019. #=== Talks
+Speaker: Ash Pahwa
+Title: Deep Learning using R and TensorFlow (Part 2) Abstract: Google released TensorFlow software in 2015 targeted for the Deep Learning applications. Two primary misconceptions about TensorFlow are as follows. First, it can only be used with Python and second, it can only be used for building deep learning applications
+This talk will demystify these concepts.</description>
+    </item>
+    
+    <item>
+      <title>SCASA 38th Annual Applied Statistics Workshop</title>
+      <link>/blog/2019/04/26/2019-04-26-scasa-38th-annual-applied-statistics-workshop/</link>
+      <pubDate>Fri, 26 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2019/04/26/2019-04-26-scasa-38th-annual-applied-statistics-workshop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ASA Datafest 2019</title>
+      <link>/blog/2019/04/05/2019-04-05-asa-datafest-2019/</link>
+      <pubDate>Fri, 05 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2019/04/05/2019-04-05-asa-datafest-2019/</guid>
+      <description>-- </description>
+    </item>
     
     <item>
       <title>Deep Learning using R and Unit Testing Your Code</title>

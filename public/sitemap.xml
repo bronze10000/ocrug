@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/blog/2019/04/29/2019-04-29-deep-learning-using-r-rest-apis-and-shiny/</loc>
+    <lastmod>2019-04-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2019/04/26/2019-04-26-scasa-38th-annual-applied-statistics-workshop/</loc>
+    <lastmod>2019-04-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2019/04/05/2019-04-05-asa-datafest-2019/</loc>
+    <lastmod>2019-04-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/blog/2019/03/26/2019-03-26-deep-learning-using-r-and-unit-testing-your-code/</loc>
     <lastmod>2019-03-26T00:00:00+00:00</lastmod>
   </url>
@@ -68,7 +83,7 @@
   
   <url>
     <loc>/blog/</loc>
-    <lastmod>2019-03-26T00:00:00+00:00</lastmod>
+    <lastmod>2019-04-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -87,7 +102,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2019-03-26T00:00:00+00:00</lastmod>
+    <lastmod>2019-04-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
